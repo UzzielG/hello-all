@@ -1,0 +1,16 @@
+C:\Users\Bryan Puyol\Desktop\hello\hello-c#\bin\Debug\net5.0\hello-c#.exe
+C:\Users\Bryan Puyol\Desktop\hello\hello-c#\bin\Debug\net5.0\hello-c#.deps.json
+C:\Users\Bryan Puyol\Desktop\hello\hello-c#\bin\Debug\net5.0\hello-c#.runtimeconfig.json
+C:\Users\Bryan Puyol\Desktop\hello\hello-c#\bin\Debug\net5.0\hello-c#.runtimeconfig.dev.json
+C:\Users\Bryan Puyol\Desktop\hello\hello-c#\bin\Debug\net5.0\hello-c#.dll
+C:\Users\Bryan Puyol\Desktop\hello\hello-c#\bin\Debug\net5.0\ref\hello-c#.dll
+C:\Users\Bryan Puyol\Desktop\hello\hello-c#\bin\Debug\net5.0\hello-c#.pdb
+C:\Users\Bryan Puyol\Desktop\hello\hello-c#\obj\Debug\net5.0\hello-c#.csprojAssemblyReference.cache
+C:\Users\Bryan Puyol\Desktop\hello\hello-c#\obj\Debug\net5.0\hello-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan Puyol\Desktop\hello\hello-c#\obj\Debug\net5.0\hello-c#.AssemblyInfoInputs.cache
+C:\Users\Bryan Puyol\Desktop\hello\hello-c#\obj\Debug\net5.0\hello-c#.AssemblyInfo.cs
+C:\Users\Bryan Puyol\Desktop\hello\hello-c#\obj\Debug\net5.0\hello-c#.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Puyol\Desktop\hello\hello-c#\obj\Debug\net5.0\hello-c#.dll
+C:\Users\Bryan Puyol\Desktop\hello\hello-c#\obj\Debug\net5.0\ref\hello-c#.dll
+C:\Users\Bryan Puyol\Desktop\hello\hello-c#\obj\Debug\net5.0\hello-c#.pdb
+C:\Users\Bryan Puyol\Desktop\hello\hello-c#\obj\Debug\net5.0\hello-c#.genruntimeconfig.cache
