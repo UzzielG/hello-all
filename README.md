@@ -1,6 +1,7 @@
 # __Hello World__ en diferentes lenguajes
 
-> Para todos los casos el **%** representa el **nombre del archivo**
+> Para todos los casos el **%** representa el **nombre del archivo**.
+> Para cada caso se presentara la manera de ejecutar o compilar por la terminal.
 
 ## C
 ```c
@@ -12,7 +13,7 @@ int main()
     return 0;
 }
 ```
-**compile** and **run**: `gcc % -o % && ./%`
+**compile** and **run**: `gcc %.c -o % && ./%`
 
 ## C++
 ```c++
@@ -25,7 +26,7 @@ int main()
     return 0;
 }
 ```
-**compile** and **run**: `g++ % -o % && ./%`
+**compile** and **run**: `g++ %.cpp -o % && ./%`
 
 ## Java
 ```java
@@ -37,7 +38,7 @@ class hello
 	}
 }
 ```
-**compile** and **run**: `javac % && java className`
+**compile** and **run**: `javac %.java && java className`
 
 ## kotlin
 ```kotlin
@@ -46,7 +47,7 @@ fun main(args: Array <String>)
     println("Hello World in Kotlin")
 }
 ```
-**compile** and **run**: `kotlinc % -o % && ./%`
+**compile** and **run**: `kotlinc %.kt -o % && ./%`
 
 ## Go
 ```go
@@ -56,8 +57,8 @@ func main() {
 	fmt.Printf("Hello World in GO")
 }
 ```
-**run**: `go run %`
-**compile** y **run**: `go build % && ./%`
+- **run**: `go run %.go`
+- **compile** y **run**: `go build %.go && ./%`
 
 ## Python
 ```python
@@ -67,7 +68,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-**run**: `python %`
+**run**: `python %.py`
 
 ## Ruby
 ```ruby
@@ -77,7 +78,7 @@ end
 
 main()
 ```
-**run**: `ruby %`
+**run**: `ruby %.rb`
 
 ## Dart
 ```dart
@@ -85,7 +86,7 @@ main() {
     print("Hello World in Dart");
 }
 ```
-**run**: `dart %`
+**run**: `dart %.dart`
 
 ## Javascript
 ```js
@@ -93,7 +94,7 @@ main() {
     console.log("Hello World in JavaScript")
 }())
 ```
-**run**: `node %`
+**run**: `node %.js`
 
 ## Perl
 ```perl
@@ -103,7 +104,7 @@ print "Hello World in Perl";
 
 exit;
 ```
-**run**: `perl %`
+**run**: `perl %.pl`
 
 ## PHP
 ```php
@@ -111,9 +112,9 @@ exit;
     echo "Hello World in PHP";
 ?>
 ```
-**run**: `php %`
-**run server**: `php -S localhost:8080`
-Para acceder o ejecutar el programa o archivo php tenemos que escribir en el explorador:
+- **run**: `php %.php`
+- **run server**: `php -S localhost:8080`
+- Para acceder o ejecutar el programa o archivo php tenemos que escribir en el explorador:
 ```
 localhost:8080/nombre_archivo.php
 ```
@@ -134,6 +135,6 @@ namespace sample1
 }
 ```
 Only install .NET SDK and use dotnet
-**create**: `dotnet new console -o name-proyect`
-**get in**: `cd name-proyect`
-**run**: `dotnet run`
+- **create**: `dotnet new console -o name-proyect`
+- **get in**: `cd name-proyect`
+- **run**: `dotnet run`
